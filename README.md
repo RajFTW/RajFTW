@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajFTW.
 - 👀 I’m interested in Game Development and Web Development.
-- 🌱 I’m currently learning Python and foundational knowledge of HTML,CSS,ReactJS.
+- 🌱 I’m currently learning Python and have foundational knowledge of HTML, CSS, ReactJS.
 - 💞️ Please help me in giving some advice on game development and web development.
 - 📫 You can reach me on my instagram:-its_raj_0211.
 
